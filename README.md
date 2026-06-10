@@ -18,6 +18,7 @@ I build backend services and distributed systems, with a focus on the things tha
 
 #### Find me
 
+- 🌐 [filippotaiuti.dev](https://filippotaiuti.dev)
 - LinkedIn — [linkedin.com/in/filippo-taiuti](https://www.linkedin.com/in/filippo-taiuti)
 
 ---

@@ -2,25 +2,38 @@
 
 Florence, Italy · in tech since 1997
 
-I build backend services and distributed systems, with a focus on the things that surface in production rather than in tutorials: reliability, performance, and graceful failure. My path started in IT infrastructure — servers, networks, monitoring, on-call — and that operational mindset still shapes how I write code today.
+I build backend services and distributed systems, with a focus on the things that surface in production rather than in tutorials: reliability, performance, and graceful failure.
+
+My path started in IT infrastructure — servers, networks, monitoring, on-call — and that operational mindset still shapes how I write code today.
 
 #### Currently
 
-- 🛠 **Building** — distributed web platforms (production work)
-- 🎮 **Shipping** — Kotlin rewrite of an Android puzzle game heading to Google Play
-- 🎓 **Studying** — Informatics @ UnitelmaSapienza (BSc, in progress)
+- 🛠 **Building** — [Temperature Monitor](https://github.com/geckoes/temperature-monitor), a production-oriented backend API built with Java, Spring Boot and PostgreSQL
+- 🧭 **Next** — Expected Run, a distributed job-monitoring platform, and [Air Quality Intelligence] (https://github.com/geckoes/air-quality-intelligence) an urban environmental data-engineering platform.
+- 🎓 **Studying** — Computer Science @ UnitelmaSapienza (BSc, in progress)
+- 🎮 **Game development** — exploring ideas for a future game project intended for release on Steam
 
 #### Featured projects
 
-- **[jimpossiblemission](https://github.com/geckoes/jimpossiblemission)** — 2D Java/Swing platformer designed as an in-depth showcase of object-oriented design patterns: MVC, Strategy, Command, Flyweight, and reflection-based view dispatch across ~117 classes. UML diagrams and benchmarked stream pipelines included.
-- **[Block1To9-Android](https://github.com/geckoes/Block1To9-Android)** — Number-merging puzzle (2018 Java prototype) with an original "special move" diagonal-unlock mechanic. Kotlin rewrite for Google Play in progress.
-- **[PersonalLibraryAndroidApp](https://github.com/geckoes/PersonalLibraryAndroidApp)** — Android book tracker (2018) with ISBN barcode scanning and dual-source metadata (Google Books + Open Library). Java snapshot today, Kotlin/Compose rewrite on the roadmap.
+- **[Temperature Monitor](https://github.com/geckoes/temperature-monitor)** —
+  A production-oriented REST API built with Java, Spring Boot and PostgreSQL. Developed incrementally through tested and documented engineering milestones, with a public v1.0 as the current target.
+
+- **[Air Quality Intelligence](https://github.com/geckoes/air-quality-intelligence)** —
+  A Python data-engineering project for collecting, normalizing and analyzing public urban air-quality data. The first vertical slice works with ARPAT data for Florence and includes data validation, quality checks and reproducible dataset reporting.
+
+- **[JImpossibleMission](https://github.com/geckoes/jimpossiblemission)** —
+  A 2D Java/Swing platformer built as an in-depth exploration of object-oriented software design, including MVC, Strategy, Command and Flyweight patterns, reflection-based view dispatch, UML documentation and performance benchmarks.
+
+#### Engineering portfolio
+
+I track the development status and roadmap of my current projects publicly at [filippotaiuti.dev](https://filippotaiuti.dev).
 
 #### Find me
 
-- 🌐 [filippotaiuti.dev](https://filippotaiuti.dev)
-- LinkedIn — [linkedin.com/in/filippo-taiuti](https://www.linkedin.com/in/filippo-taiuti)
+- 🌐 [Portfolio — filippotaiuti.dev](https://filippotaiuti.dev)
+- [LinkedIn — filippo-taiuti](https://www.linkedin.com/in/filippo-taiuti)
 
 ---
 
-> *In tech since 1997 — which means I've seen systems fail in ways that never show up in tutorials.*
+> *In tech since 1997 — which means I've seen systems fail in ways that never
+> show up in tutorials.*

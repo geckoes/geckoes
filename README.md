@@ -1,39 +1,46 @@
-### Filippo Taiuti — Software Engineer
+# Filippo Taiuti — Software Developer
 
-Florence, Italy · in tech since 1997
+**Full-stack development · Backend focus**  
+Based near Florence, Italy
 
-I build backend services and distributed systems, with a focus on the things that surface in production rather than in tutorials: reliability, performance, and graceful failure.
+I develop web applications across backend and frontend, with most of my professional work focused on backend features, application logic and data access. My day-to-day stack includes PHP, Smarty, JavaScript, HTML/CSS, MongoDB, Redis and RabbitMQ.
 
-My path started in IT infrastructure — servers, networks, monitoring, on-call — and that operational mindset still shapes how I write code today.
+My background also includes system administration, networking and enterprise IT support. It helps me investigate problems across applications and the environments where they run.
 
-#### Currently
+### Professional work
 
-- 🛠 **Building** — [Temperature Monitor](https://github.com/geckoes/temperature-monitor), a production-oriented backend API built with Java, Spring Boot and PostgreSQL
-- 🧭 **Next** — Expected Run, a distributed job-monitoring platform, and [Air Quality Intelligence] (https://github.com/geckoes/air-quality-intelligence) an urban environmental data-engineering platform.
-- 🎓 **Studying** — Computer Science @ UnitelmaSapienza (BSc, in progress)
-- 🎮 **Game development** — exploring ideas for a future game project intended for release on Steam
+- Develop and maintain application features, discussing technical solutions with the technical lead.
+- Proactively analyze page loading and content download performance, investigate bottlenecks, and improve data access through query analysis, indexing and caching.
+- Develop asynchronous background tasks using RabbitMQ.
 
-#### Featured projects
+One concrete result: reducing a MongoDB query's execution time from approximately **1.7 seconds to 73 milliseconds**.
 
-- **[Temperature Monitor](https://github.com/geckoes/temperature-monitor)** —
-  A production-oriented REST API built with Java, Spring Boot and PostgreSQL. Developed incrementally through tested and documented engineering milestones, with a public v1.0 as the current target.
+### Learning through building
 
-- **[Air Quality Intelligence](https://github.com/geckoes/air-quality-intelligence)** —
-  A Python data-engineering project for collecting, normalizing and analyzing public urban air-quality data. The first vertical slice works with ARPAT data for Florence and includes data validation, quality checks and reproducible dataset reporting.
+Alongside work, I'm studying Computer Science at **UnitelmaSapienza** and developing personal projects to turn ideas into useful software. These projects give me space to strengthen software design, automated testing and documentation skills beyond my day-to-day work.
 
-- **[JImpossibleMission](https://github.com/geckoes/jimpossiblemission)** —
-  A 2D Java/Swing platformer built as an in-depth exploration of object-oriented software design, including MVC, Strategy, Command and Flyweight patterns, reflection-based view dispatch, UML documentation and performance benchmarks.
+### Featured projects
 
-#### Engineering portfolio
+**[Temperature Monitor](https://github.com/geckoes/temperature-monitor)** · Current focus  
+A Java / Spring Boot backend with PostgreSQL for collecting and querying temperature measurements. Features include request validation, pagination, sorting, time-range filters, DTO boundaries and Flyway migrations. Developed incrementally with automated tests, documentation and continuous integration, toward a public v1.0.
 
-I track the development status and roadmap of my current projects publicly at [filippotaiuti.dev](https://filippotaiuti.dev).
+**[Air Quality Intelligence](https://github.com/geckoes/air-quality-intelligence)** · Early development  
+A Python project exploring public urban air-quality data, starting with ARPAT's Florence dataset. Current work focuses on dataset inspection, validation and reproducible quality reports. A dashboard is planned.
 
-#### Find me
+**[JImpossibleMission](https://github.com/geckoes/jimpossiblemission)** · Java / Swing  
+A 2D platformer exploring object-oriented design, including MVC, Strategy, Command and Flyweight, with UML documentation and a stream / parallelStream benchmark.
 
-- 🌐 [Portfolio — filippotaiuti.dev](https://filippotaiuti.dev)
+### Other development experience
+
+I built Android apps including [Block 1 To 9](https://github.com/geckoes/Block1To9-Android), a number-merging puzzle, and [Personal Library](https://github.com/geckoes/PersonalLibraryAndroidApp), a book tracker with ISBN scanning and Google Books / Open Library metadata. The apps are no longer on the Android store; their Java source remains available.
+
+From September 2020 to November 2021, I collaborated remotely with an independent game development team using Unity and C#, implementing object mechanics, working on maps and minigames, and documenting functionality. The project ended before beta and was not released.
+
+Mobile development and my personal Unity / C# game are currently paused while I prioritize backend projects. Expected Run, a job-monitoring service, remains in planning.
+
+### Connect
+
+I'm interested in development roles where I can contribute my experience, collaborate on technical decisions and take increasing responsibility for software quality and delivery. Open to hybrid roles near Florence and remote roles with working hours compatible with Italy.
+
+- [Portfolio and project roadmap — filippotaiuti.dev](https://filippotaiuti.dev/?utm_source=github&utm_campaign=portfolio)
 - [LinkedIn — filippo-taiuti](https://www.linkedin.com/in/filippo-taiuti)
-
----
-
-> *In tech since 1997 — which means I've seen systems fail in ways that never
-> show up in tutorials.*
